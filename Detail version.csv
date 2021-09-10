@@ -1,4 +1,4 @@
-Compound,log kp (cm/s),MW,LogP,HBD,HBA,LogS
+Compound,LogKp,MW,LogP,HBD,HBA,LogS
 "1,1,1-Trichloropropanone",-5.176,161.41,1.859,0,1,-2.188
 "1,1-Dichloropropanone",-4.923,126.96,1.388,0,1,-0.964
 Bromoacetic acid,-6.41,138.948,0.499,1,2,-0.257
