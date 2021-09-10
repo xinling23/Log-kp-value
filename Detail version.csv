@@ -1,0 +1,13 @@
+Compound,log kp (cm/s),MW,LogP,HBD,HBA,LogS
+"1,1,1-Trichloropropanone",-5.176,161.41,1.859,0,1,-2.188
+"1,1-Dichloropropanone",-4.923,126.96,1.388,0,1,-0.964
+Bromoacetic acid,-6.41,138.948,0.499,1,2,-0.257
+Bromochloroacetic acid,-6.352,173.39,0.786,1,2,-0.901
+Bromodichloromethane,-4.301,163.82,1.976,0,0,-1.866
+Bromoform,-4.234,252.731,2.276,0,0,-2.172
+Chloroacetic acid,-6.515,94.49,0.314,1,2,-0.04
+Chlorodibromomethane,-4.255,208.28,2.126,0,0,-2.034
+Chloroform ,-4.352,119.37,1.825,0,0,-1.666
+Dibromoacetic acid,-6.141,217.844,0.699,1,2,-1.063
+Dichloroacetic acid,-6.278,128.94,1.058,1,2,-0.709
+Trichloroacetic acid,-6.278,163.38,1.529,1,2,-1.932
