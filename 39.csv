@@ -1,0 +1,37 @@
+Compound,LogKp,Carboxylic acid,Ester,Ether,Amide,Amine,Ketone,Hydroxyl,Cl,Br,ring
+1-Butanol,-5.659,0,0,0,0,0,0,1,0,0,0
+1-Decanol,-4.701,0,0,0,0,0,0,1,0,0,0
+1-Hexanol,-5.051,0,0,0,0,0,0,1,0,0,0
+1-Octanol,-4.586,0,0,0,0,0,0,1,0,0,0
+2-Amino-4-Nitrophenol,-8.079,0,0,0,0,1,0,1,0,0,1
+2-Amino-4-Nitrophenol,-6.737,0,0,0,0,1,0,1,0,0,1
+2-Naphthol,-4.757,0,0,0,0,0,0,1,0,0,2
+2-Nitro-p-Phenylenediamine,-6.857,0,0,0,0,2,0,0,0,0,1
+4-Amino-2-Nitrophenol,-7.622,0,0,0,0,1,0,1,0,0,1
+4-Amino-2-Nitrophenol,-6.109,0,0,0,0,1,0,1,0,0,1
+4-Chloro-m-phenylenediamine,-6.234,0,0,0,0,2,0,0,1,0,1
+4-Propoxyphenol,-5.38,0,0,1,0,0,0,1,0,0,1
+5-Aminolevulinic acid,-7.711,1,0,0,0,1,1,0,0,0,0
+Benzene,-4.511,0,0,0,0,0,0,0,0,0,1
+Butyl 4-hydroxybenzoate,-4.538,0,1,0,0,0,0,1,0,0,1
+Caffeine,-7.053,0,0,0,2,2,0,0,0,0,1
+Carvacrol,-4.81,0,0,0,0,0,0,1,0,0,1
+Chlorocresol,-5,0,0,0,0,0,0,1,1,0,1
+Chloroxylenol,-4.651,0,0,0,0,0,0,1,1,0,1
+Cytarabine,-8.856,0,0,1,1,2,0,3,0,0,1
+Ethanol,-6.278,0,0,0,0,0,0,1,0,0,0
+Flufenamic acid,-6.194,1,0,0,0,1,0,0,0,0,2
+L-alanyl-L-tryptophan,-8.38,1,0,0,1,1,0,0,0,0,1
+L-alanyl-L-tryptophan,-8.637,1,0,0,1,1,0,0,0,0,1
+Mannitol,-8.158,0,0,0,0,0,0,6,0,0,0
+Methyl 4-hydroxybenzoate,-5.23,0,1,0,0,0,0,1,0,0,1
+Methyl 4-hydroxybenzoate,-5.632,0,1,0,0,0,0,1,0,0,1
+Methyl salicylate,-5,0,1,0,0,0,0,1,0,0,1
+"N4-acetyl-4-amino-1-[(2R, 3S, 4R, 5R)-3-4-dihydroxy-5(hydroxymethyl)oxolan-2-yl] pyrimidin-2-one",-6.889,0,0,1,2,1,0,3,0,0,1
+"N4-hexanoyl-4-amino-1-[(2R, 3S, 4R, 5R)-3-4-dihydroxy-5(hydroxymethyl)oxolan-2-yl] pyrimidin-2-one",-5.737,0,0,1,1,1,0,3,0,0,0
+o-Phenylenediamine,-6.903,0,0,0,0,2,0,0,0,0,1
+o-t-Butylphenol,-4.685,0,0,0,0,0,0,1,0,0,1
+p-n-Butylphenol,-4.671,0,0,0,0,0,0,1,0,0,1
+p-Phenylenediamine,-7.176,0,0,0,0,2,0,0,0,0,1
+Thymol,-4.77,0,0,0,0,0,0,1,0,0,1
+Water,-6.597,0,0,0,0,0,0,1,0,0,0
