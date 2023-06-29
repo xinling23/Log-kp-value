@@ -1,0 +1,145 @@
+Compound,LogKp,Carboxylic acid,Ester,Ether,Amide,Amine,Ketone,Hydroxyl,Cl,Br,Aromatic
+"1,1,1-Trichloropropanone",-5.176,0,0,0,0,0,1,0,3,0,0
+"1,1-Dichloropropanone",-4.923,0,0,0,0,0,1,0,2,0,0
+"1,2,4-Benzenetriol",-7.456,0,0,0,0,0,0,3,0,0,1
+1-Butanol,-5.816,0,0,0,0,0,0,1,0,0,0
+1-Decanol,-6.410,0,0,0,0,0,0,1,0,0,0
+1-Hexanol,-5.778,0,0,0,0,0,0,1,0,0,0
+1-Hexyl-2-Pyrrolidone,-5.208,0,0,0,1,0,0,0,0,0,0
+1-Methoxy-2-Propanol,-6.397,0,0,1,0,0,0,1,0,0,0
+1-Octyl-2-Azacycloheptanone,-4.836,0,0,0,1,0,0,0,0,0,0
+1-Octyl-2-Pyrrolidone,-4.827,0,0,0,1,0,0,0,0,0,0
+1-Pentanol,-5.778,0,0,0,0,0,0,1,0,0,0
+1-Propanol,-6.556,0,0,0,0,0,0,1,0,0,0
+2-(2-Ethoxyethoxy)ethanol,-7.436,0,0,2,0,0,0,1,0,0,0
+2-(2-Methoxyethoxy)ethanol,-7.242,0,0,2,0,0,0,1,0,0,0
+"2,4-Dichlorophenol",-4.778,0,0,0,0,0,0,1,2,0,1
+2-Butoxyethanol,-5.340,0,0,1,0,0,0,1,0,0,0
+2-Ethoxyethyl acetate,-6.649,0,1,1,0,0,0,0,0,0,0
+2-Hydroxypropyl Nicotinate,-8.025,0,1,0,0,1,0,1,0,0,1
+2-Methoxyethanol,-6.095,0,0,1,0,0,0,1,0,0,0
+2-Naphthol,-4.757,0,0,0,0,0,0,1,0,0,2
+2-Phenylethanol,-5.276,0,0,0,0,0,0,1,0,0,1
+2-Phenylphenol,-6.355,0,0,0,0,0,0,1,0,0,2
+2-Propoxyethanol,-6.923,0,0,1,0,0,0,1,0,0,0
+"3,4-Xylenol",-5.000,0,0,0,0,0,0,1,0,0,1
+"4,4'-Methylenedianiline",-6.219,0,0,0,0,2,0,0,0,0,2
+4-Chloro-m-phenylenediamine,-6.234,0,0,0,0,2,0,0,1,0,1
+4-Hydroxybenzyl alcohol,-6.255,0,0,0,0,0,0,2,0,0,1
+4-Hydroxyphenylacetamide,-6.903,0,0,0,1,0,0,1,0,0,1
+4-Hydroxyphenylacetic acid,-6.158,1,0,0,0,0,0,1,0,0,1
+5-Aminolevulinic acid,-7.711,1,0,0,0,1,1,0,0,0,0
+Acetic acid,-6.079,1,0,0,0,0,0,0,0,0,0
+Acetylsalicylic acid,-5.696,1,1,0,0,0,0,0,0,0,1
+Acyclovir,-7.079,0,0,1,1,4,0,1,0,0,2
+Aldosterone,-8.079,0,0,0,0,0,3,2,0,0,0
+Atenolol,-7.857,0,0,1,2,1,0,1,0,0,1
+Barbital,-7.509,0,0,0,2,0,1,0,0,0,0
+Benzene,-4.511,0,0,0,0,0,0,0,0,0,1
+Benzoic acid,-5.156,1,0,0,0,0,0,0,0,0,1
+Benzyl nicotinate,-5.348,0,1,0,0,1,0,0,0,0,2
+Bisoprolol Fumerate,-7.125,1,1,3,0,1,0,1,0,0,1
+Bromoacetic acid,-6.410,1,0,0,0,0,0,0,0,1,0
+Bromochloroacetic acid,-6.352,1,0,0,0,0,0,0,1,1,0
+Bromodichloromethane,-4.301,0,0,0,0,0,0,0,2,1,0
+Butan-2-one,-5.903,0,0,0,0,0,1,0,0,0,0
+Butobarbital,-7.268,0,0,0,2,0,1,0,0,0,0
+Butoxyethanol,-5.982,0,0,1,0,0,0,1,0,0,0
+Butyl nicotinate,-5.335,0,1,0,0,1,0,0,0,0,1
+Caffeine,-6.828,0,0,0,2,2,0,0,0,0,2
+Carvacrol,-4.810,0,0,0,0,0,0,1,0,0,1
+Catechol,-6.066,0,0,0,0,0,0,2,0,0,1
+Chlorocresol,-5.000,0,0,0,0,0,0,1,1,0,1
+Chlorodibromomethane,-4.255,0,0,0,0,0,0,0,1,2,0
+Chloroform ,-4.352,0,0,0,0,0,0,0,3,0,0
+Chloroxylenol,-4.651,0,0,0,0,0,0,1,1,0,1
+Chlorpheniramine,-6.491,0,0,0,0,2,0,0,1,0,2
+Codeine,-7.866,0,0,2,0,1,0,1,0,0,1
+Cortexolone,-7.681,0,0,0,0,0,2,2,0,0,0
+Cortexone,-6.903,0,0,0,0,0,2,1,0,0,0
+Corticosterone,-7.556,0,0,0,0,0,2,2,0,0,0
+Cortisone,-7.380,0,0,0,0,0,3,2,0,0,0
+Dibromoacetic acid,-6.141,1,0,0,0,0,0,0,0,2,0
+Dichloroacetic acid,-6.278,1,0,0,0,0,0,0,2,0,0
+Diclofenac,-6.556,1,0,0,0,1,0,0,2,0,2
+Diethyl ether,-5.352,0,0,1,0,0,0,0,0,0,0
+Diethylcarbamazine,-7.459,0,0,0,1,2,0,0,0,0,0
+Diethylene glycol mono n-butyl ether acetate,-7.778,0,1,2,0,0,0,0,0,0,0
+Diethylene glycol monobutyl ether,-8.004,0,0,2,0,0,0,1,0,0,0
+Dipropylene glycol mono methyl ether,-7.515,0,0,2,0,0,0,1,0,0,0
+Estradiol,-5.829,0,0,0,0,0,0,2,0,0,1
+Estriol,-7.954,0,0,0,0,0,0,3,0,0,1
+Ethacrynic acid,-7.380,1,0,1,0,0,1,0,2,0,1
+Ethanol,-6.352,0,0,0,0,0,0,1,0,0,0
+Ethyl 3-ethoxypropionate,-6.669,0,1,1,0,0,0,0,0,0,0
+Ethyl nicotinate,-5.755,0,1,0,0,1,0,0,0,0,1
+Ethyl p-aminobenzoate,-5.255,0,1,0,0,1,0,0,0,0,1
+Ethylene glycol mono isopropyl ether,-7.125,0,0,1,0,0,0,1,0,0,0
+Ethylene glycol mono methyl ether acetate,-6.637,0,1,2,0,0,0,0,0,0,0
+Etodolac,-5.683,1,0,1,0,1,0,0,0,0,2
+Etorphine,-6.000,0,0,2,0,1,0,2,0,0,1
+Fentanyl,-5.556,0,0,0,1,1,0,0,0,0,2
+Histidine,-7.812,1,0,0,0,3,0,0,0,0,1
+Hydrocortisone 21-(6-hydroxyhexanoate),-6.597,0,1,0,0,0,2,3,0,0,0
+"Hydrocortisone 21-(N,N-dimethylsuccinamate)",-7.730,0,1,0,1,0,2,2,0,0,0
+Hydrocortisone 21-Hemisuccinate,-6.757,0,1,0,0,0,2,2,0,0,0
+Hydrocortisone 21-methylsuccinate,-7.234,0,2,0,0,0,2,2,0,0,0
+Hydrocortisone 21-pimelamate,-6.607,0,1,0,1,0,2,2,0,0,0
+Hydrocortisone 21-propionate,-6.038,0,1,0,0,0,2,2,0,0,0
+Hydrocortisone 21-succinamate,-8.141,0,1,0,1,0,2,2,0,0,0
+Hydroquinone,-6.506,0,0,0,0,0,0,2,0,0,1
+Hydroxypregnenolone,-6.778,0,0,0,0,0,1,2,0,0,0
+Ibuprofen mannoside,-6.548,0,1,1,0,0,0,4,0,0,1
+Indomethacin,-6.997,1,0,1,1,0,0,0,1,0,3
+Isoquinoline,-5.332,0,0,0,0,1,0,0,0,0,2
+Ketoprofen,-6.768,1,0,0,0,0,1,0,0,0,2
+Ketoprofen mannoside,-7.594,0,1,1,0,0,0,4,0,0,2
+Ketorolac,-5.799,1,0,0,0,1,1,0,0,0,2
+Lidocaine,-5.707,0,0,0,1,0,0,0,0,0,1
+Linolenic acid,-5.988,1,0,0,0,0,0,0,0,0,0
+Mannitol,-7.923,0,0,0,0,0,0,6,0,0,0
+m-Cresol,-5.373,0,0,0,0,0,0,1,0,0,1
+Meperidine,-5.988,0,1,0,0,1,0,0,0,0,1
+Methanol,-5.539,0,0,0,0,0,0,1,0,0,0
+Methyl 4-hydroxybenzoate,-5.632,0,1,0,0,0,0,1,0,0,1
+Methyl p-aminobenzoate,-5.195,0,1,0,0,1,0,0,0,0,1
+Methyl salicylate,-5.000,0,1,0,0,0,0,1,0,0,1
+Methyltriglycol nicotinate,-7.308,0,1,3,0,1,0,0,0,0,1
+Metoprolol,-6.637,0,0,2,0,1,0,1,0,0,1
+"N4-acetyl-4-amino-1-[(2R, 3S, 4R, 5R)-3-4-dihydroxy-5(hydroxymethyl)oxolan-2-yl] pyrimidin-2-one",-6.889,0,0,1,2,1,0,3,0,0,1
+Naphthol,-5.141,0,0,0,0,0,0,1,0,0,2
+Naproxen,-6.096,1,0,1,0,0,0,0,0,0,2
+Naproxen glucoside,-7.886,0,1,2,0,0,0,4,0,0,2
+n-Hexyl nicotinate,-5.303,0,1,0,0,1,0,0,0,0,1
+Nicotine,-5.546,0,0,0,0,2,0,0,0,0,1
+n-Nitrosodiethanolamine,-5.944,0,0,0,0,1,0,2,0,0,0
+Nortriptyline hydrochloride,-6.444,0,0,0,0,1,0,0,1,0,2
+Octylparaben,-5.588,0,1,0,0,0,0,1,0,0,1
+Oleic acid,-6.442,1,0,0,0,0,0,0,0,0,0
+o-Phenylenediamine,-6.903,0,0,0,0,2,0,0,0,0,1
+o-t-Butylphenol,-4.685,0,0,0,0,0,0,1,0,0,1
+Ouabain,-9.653,0,1,2,0,0,0,8,0,0,0
+Oxprenolol,-6.369,0,0,2,0,1,0,1,0,0,1
+Paraquat,-8.617,0,0,0,0,2,0,0,0,0,2
+p-Ethylphenol,-5.014,0,0,0,0,0,0,1,0,0,1
+Phenobarbital,-6.900,0,0,0,2,0,1,0,0,0,1
+Phenol,-5.586,0,0,0,0,0,0,1,0,0,1
+Phloroglucinol,-6.066,0,0,0,0,0,0,3,0,0,1
+p-n-Butylphenol,-4.671,0,0,0,0,0,0,1,0,0,1
+p-Phenylenediamine,-7.176,0,0,0,0,2,0,0,0,0,1
+Prazosin hydrochloride,-5.711,0,0,3,1,4,0,0,1,0,3
+Prednisolone,-7.906,0,0,0,0,0,2,3,0,0,0
+Pregnenolone,-6.380,0,0,0,0,0,1,1,0,0,0
+Progesterone,-5.255,0,0,0,0,0,2,0,0,0,0
+Propoxur,-5.878,0,0,1,1,0,0,0,0,0,1
+Propranolol-HCl,-7.879,0,0,1,0,1,0,1,1,0,2
+Propylparaben,-5.410,0,1,0,0,0,0,1,0,0,1
+Resorcinol,-6.626,0,0,0,0,0,0,2,0,0,1
+Salicylic acid,-5.136,1,0,0,0,0,0,1,0,0,1
+Sucrose,-8.840,0,0,3,0,0,0,8,0,0,0
+Testosterone,-5.856,0,0,0,0,0,1,1,0,0,0
+Theophylline,-7.125,0,0,0,2,2,0,0,0,0,2
+Thymol,-4.770,0,0,0,0,0,0,1,0,0,1
+Trichloroacetic acid,-6.278,1,0,0,0,0,0,0,3,0,0
+Triglycol nicotinate,-8.561,0,1,2,0,1,0,1,0,0,1
+Water,-6.429,0,0,0,0,0,0,1,0,0,0
